@@ -96,7 +96,7 @@
     "unityAds": false
   },
   "horoscopeprediction": {
-    "forceUpdate": true,
+    "forceUpdate": false,
     "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.horoscopeprediction",
     "showAffiliate": false,
     "showOffers": false,
