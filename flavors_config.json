@@ -1,0 +1,458 @@
+{
+  "football_prediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.football_prediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "soccor_prediction_mini": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.soccor_prediction_mini",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "basketball_prediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.basketball_prediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "basketball_prediction_mini": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.basketball_prediction_mini",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "ic_hockey_prediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.ic_hockey_prediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "ic_hockey_prediction_mini": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.ic_hockey_prediction_mini",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "handball_prediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.handball_prediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "handball_prediction_mini": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.handball_prediction_mini",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "oldclassicmovies": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.oldclassicmovies",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "documentarymovies": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.documentarymovies",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "tv_app_all": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.tv_app_all",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "cryptoprediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.cryptoprediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "horoscopeprediction": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.horoscopeprediction",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "nutrition_recipes": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.nutrition_recipes",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "learnhtml": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.learnhtml",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "learnjavascript": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.learnjavascript",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "german_lottery": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.german_lottery",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "uk_lottery": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.uk_lottery",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "canada_lotto_max": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.canada_lotto_max",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "australia_powerball": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.australia_powerball",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "german_lottery_analytics": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.german_lottery_analytics",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "uk_lottery_analytics": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.uk_lottery_analytics",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "canada_lotto_max_analytics": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.canada_lotto_max_analytics",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "australia_powerball_analytics": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.australia_powerball_analytics",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "dailytracker": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.dailytracker",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "gamerewardapp": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.gamerewardapp",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "tarot_reading": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.tarot_reading",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "memory_jar_of_us": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.memory_jar_of_us",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "jar_of_gratitude": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.jar_of_gratitude",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "football_prediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.football_prediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "soccor_prediction_mini_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.soccor_prediction_mini_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "basketball_prediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.basketball_prediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "basketball_prediction_mini_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.basketball_prediction_mini_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "ic_hockey_prediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.ic_hockey_prediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "ic_hockey_prediction_mini_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.ic_hockey_prediction_mini_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "handball_prediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.handball_prediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "handball_prediction_mini_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.handball_prediction_mini_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "oldclassicmovies_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.oldclassicmovies_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "documentarymovies_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.documentarymovies_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "tv_app_all_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.tv_app_all_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "cryptoprediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.cryptoprediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "horoscopeprediction_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.horoscopeprediction_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "nutrition_recipes_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.nutrition_recipes_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "learnhtml_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.learnhtml_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "learnjavascript_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.learnjavascript_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "german_lottery_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.german_lottery_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "uk_lottery_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.uk_lottery_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "canada_lotto_max_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.canada_lotto_max_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "australia_powerball_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.australia_powerball_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "german_lottery_analytics_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.german_lottery_analytics_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "uk_lottery_analytics_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.uk_lottery_analytics_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "canada_lotto_max_analytics_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.canada_lotto_max_analytics_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "australia_powerball_analytics_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.australia_powerball_analytics_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "dailytracker_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.dailytracker_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "tarot_reading_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.tarot_reading_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "memory_jar_of_us_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.memory_jar_of_us_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  },
+  "jar_of_gratitude_pro": {
+    "forceUpdate": false,
+    "updateAppLink": "https://play.google.com/store/apps/details?id=com.esoapps.jar_of_gratitude_pro",
+    "showAffiliate": false,
+    "showOffers": false,
+    "admobAds": true,
+    "unityAds": true
+  }
+}
