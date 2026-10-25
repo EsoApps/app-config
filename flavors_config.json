@@ -5,7 +5,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "soccor_prediction_mini": {
     "forceUpdate": false,
@@ -13,7 +13,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "basketball_prediction": {
     "forceUpdate": false,
@@ -21,7 +21,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "basketball_prediction_mini": {
     "forceUpdate": false,
@@ -29,7 +29,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "ic_hockey_prediction": {
     "forceUpdate": false,
@@ -37,7 +37,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "ic_hockey_prediction_mini": {
     "forceUpdate": false,
@@ -45,7 +45,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "handball_prediction": {
     "forceUpdate": false,
@@ -53,7 +53,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "handball_prediction_mini": {
     "forceUpdate": false,
@@ -61,7 +61,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "oldclassicmovies": {
     "forceUpdate": false,
@@ -69,7 +69,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "documentarymovies": {
     "forceUpdate": false,
@@ -77,7 +77,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "tv_app_all": {
     "forceUpdate": false,
@@ -85,7 +85,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "cryptoprediction": {
     "forceUpdate": false,
@@ -93,7 +93,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "horoscopeprediction": {
     "forceUpdate": false,
@@ -101,7 +101,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "nutrition_recipes": {
     "forceUpdate": false,
@@ -109,7 +109,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "learnhtml": {
     "forceUpdate": false,
@@ -117,7 +117,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "learnjavascript": {
     "forceUpdate": false,
@@ -125,7 +125,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "german_lottery": {
     "forceUpdate": false,
@@ -133,7 +133,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "uk_lottery": {
     "forceUpdate": false,
@@ -141,7 +141,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "canada_lotto_max": {
     "forceUpdate": false,
@@ -149,7 +149,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "australia_powerball": {
     "forceUpdate": false,
@@ -157,7 +157,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "german_lottery_analytics": {
     "forceUpdate": false,
@@ -165,7 +165,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "uk_lottery_analytics": {
     "forceUpdate": false,
@@ -173,7 +173,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "canada_lotto_max_analytics": {
     "forceUpdate": false,
@@ -181,7 +181,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "australia_powerball_analytics": {
     "forceUpdate": false,
@@ -189,7 +189,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "dailytracker": {
     "forceUpdate": false,
@@ -197,7 +197,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "gamerewardapp": {
     "forceUpdate": false,
@@ -205,7 +205,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "tarot_reading": {
     "forceUpdate": false,
@@ -213,7 +213,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "memory_jar_of_us": {
     "forceUpdate": false,
@@ -221,7 +221,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "jar_of_gratitude": {
     "forceUpdate": false,
@@ -229,7 +229,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "football_prediction_pro": {
     "forceUpdate": false,
@@ -237,7 +237,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "soccor_prediction_mini_pro": {
     "forceUpdate": false,
@@ -245,7 +245,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "basketball_prediction_pro": {
     "forceUpdate": false,
@@ -253,7 +253,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "basketball_prediction_mini_pro": {
     "forceUpdate": false,
@@ -261,7 +261,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "ic_hockey_prediction_pro": {
     "forceUpdate": false,
@@ -269,7 +269,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "ic_hockey_prediction_mini_pro": {
     "forceUpdate": false,
@@ -277,7 +277,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "handball_prediction_pro": {
     "forceUpdate": false,
@@ -285,7 +285,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "handball_prediction_mini_pro": {
     "forceUpdate": false,
@@ -293,7 +293,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "oldclassicmovies_pro": {
     "forceUpdate": false,
@@ -301,7 +301,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "documentarymovies_pro": {
     "forceUpdate": false,
@@ -309,7 +309,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "tv_app_all_pro": {
     "forceUpdate": false,
@@ -317,7 +317,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "cryptoprediction_pro": {
     "forceUpdate": false,
@@ -325,7 +325,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "horoscopeprediction_pro": {
     "forceUpdate": false,
@@ -333,7 +333,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "nutrition_recipes_pro": {
     "forceUpdate": false,
@@ -341,7 +341,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "learnhtml_pro": {
     "forceUpdate": false,
@@ -349,7 +349,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "learnjavascript_pro": {
     "forceUpdate": false,
@@ -357,7 +357,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "german_lottery_pro": {
     "forceUpdate": false,
@@ -365,7 +365,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "uk_lottery_pro": {
     "forceUpdate": false,
@@ -373,7 +373,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "canada_lotto_max_pro": {
     "forceUpdate": false,
@@ -381,7 +381,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "australia_powerball_pro": {
     "forceUpdate": false,
@@ -389,7 +389,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "german_lottery_analytics_pro": {
     "forceUpdate": false,
@@ -397,7 +397,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "uk_lottery_analytics_pro": {
     "forceUpdate": false,
@@ -405,7 +405,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "canada_lotto_max_analytics_pro": {
     "forceUpdate": false,
@@ -413,7 +413,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "australia_powerball_analytics_pro": {
     "forceUpdate": false,
@@ -421,7 +421,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "dailytracker_pro": {
     "forceUpdate": false,
@@ -429,7 +429,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "tarot_reading_pro": {
     "forceUpdate": false,
@@ -437,7 +437,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "memory_jar_of_us_pro": {
     "forceUpdate": false,
@@ -445,7 +445,7 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   },
   "jar_of_gratitude_pro": {
     "forceUpdate": false,
@@ -453,6 +453,6 @@
     "showAffiliate": false,
     "showOffers": false,
     "admobAds": true,
-    "unityAds": true
+    "unityAds": false
   }
 }
